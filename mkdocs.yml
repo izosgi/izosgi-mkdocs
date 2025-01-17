@@ -1,0 +1,66 @@
+site_name: IZO-SGI Scientific Computing (ARINA)
+site_url: https://izosgi.ehu.es
+theme:
+  name: material
+  font: 
+     text: Noto Sans
+     code: Red Hat Mono
+  # NOT WORKING !! (check out material documentation )
+  logo: img/copilot-logo.png
+  favicon: img/favicon.ico
+  #features:
+  #  - navigation.footer
+  palette: 
+    # Dark Mode 
+    - media: "(prefers-color-scheme: light)"
+      scheme: slate
+      toggle: 
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: indigo
+      accent: deep purple
+
+    # Light Mode 
+    - media: "(prefers-color-scheme: dark)"
+      scheme: default
+      toggle: 
+        icon: material/weather-night
+        name: Light mode
+      primary: light blue
+      accent: purple
+
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  #- pymdownx.inlinehilie
+  - pymdownx.snippets:
+      check_paths: true
+      url_download: false
+      url_max_size: 33554432
+      url_timeout: 10
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format 
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+  - admonition
+  - pymdownx.details
+
+extra:
+  social:
+    - icon: simple/linkedin
+      link: https://linkedin.com/in/
+    - icon: material/email
+      #link: /contact
+    - icon: material/account
+      link: http://www.ehu.eus/sgi/CUENTA
+
+extra_css:
+  - stylesheets/extra.css
+
+copyright: Copyright &copy; 2024 IZO-SGIker

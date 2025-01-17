@@ -1,0 +1,17 @@
+[data-md-color-scheme="slate"] {
+    --md-hue: 225; 
+}
+
+[data-md-color-scheme="izosgi-dark"] {
+    --md-default-fg-coler:        #1c115a;
+    --md-primary-fg-color:        #1c115a;
+    --md-primary-fg-color--light: #1c115a;
+    --md-primary-fg-color--dark:  #7385e9;
+    --md-primary-bg-color:        #fcfcfc;
+  }
+
+[data-md-color-scheme="izosgi-light"] {
+    --md-primary-fg-color:        #9b89fd;
+    --md-primary-fg-color--light: #7d69ec;
+    --md-primary-fg-color--dark:  #7385e9;
+  }
