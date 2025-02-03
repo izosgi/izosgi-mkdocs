@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://izosgi.ehu.es/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://izosgi.ehu.es/Access/account/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://izosgi.ehu.es/Access/connect/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://izosgi.ehu.es/Hardware/filesystems/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://izosgi.ehu.es/Hardware/network/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://izosgi.ehu.es/Hardware/nodes/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://izosgi.ehu.es/Hardware/resources/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+    <url>
+         <loc>https://izosgi.ehu.es/Jobs/modules/</loc>
+         <lastmod>2025-02-03</lastmod>
+    </url>
+</urlset>
