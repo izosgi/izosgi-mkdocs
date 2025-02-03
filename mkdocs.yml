@@ -53,7 +53,7 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: simple/linkedin
+    - icon: simple/youtube
       link: https://linkedin.com/in/
     - icon: material/email
       #link: /contact
@@ -63,4 +63,4 @@ extra:
 extra_css:
   - stylesheets/extra.css
 
-copyright: Copyright &copy; 2024 IZO-SGIker
+copyright: Copyright &copy; 2025 IZO-SGIker

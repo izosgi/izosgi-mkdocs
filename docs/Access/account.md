@@ -6,7 +6,7 @@ Although we can provide access to the ARINA cluster for all members of the scien
 
 ## UPV/EHU Researchers
 
-The request of an account have to be done by completing the required form available at the following [link](www.ehu.es/sgi/CUENTA).
+The request of an account have to be done by completing the required form available at the following [link](www.ehu.es/sgi/CUENTA){target=_blank}.
 
 
 !!! info "Login with LDAP account of the UPV/EHU"
