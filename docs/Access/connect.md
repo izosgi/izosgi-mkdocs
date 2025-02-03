@@ -17,7 +17,15 @@ In High Performance Computing (HPC) environments, researchers and engineers freq
 - **Scalability**: SSH enables users to manage and interact with multiple nodes in an HPC cluster, simplifying the deployment and control of large-scale computing resources.
 - **Remote Access**: Users can access HPC systems from anywhere with an internet connection, enhancing collaboration and productivity.
 
+
 ## Login servers connection
+
+!!! danger " Internal Network "
+
+    Notice that before trying to connect via '''ssh''' to any of the ARINA's login servers, you must be connected into the EHU/UPV network. So, either first you connect from a PC located in the EHU/UPV or you must first connect to the VPN. For the latter, you can find information in the following [link](https://www.ehu.eus/es/web/ikt-tic/vpn){target=_blank}.
+    
+
+
 
 === "Linux / Mac" 
     If the workstation employed for logging in Arina deploys either a Unix/linux or a Mac OS operating system, then the sole ssh protocol can be used.
