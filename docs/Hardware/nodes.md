@@ -88,7 +88,7 @@ The following tabs shows the different types and features of the computing nodes
       
       - Number of GPU Nodes: 1  ( named **nd15** )
       - Processor type : 2 x [Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz processor with 14 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html)
-      - GPU Model: [NVIDIA Tesla K40m 11Gb](https://www.nvidia.com/content/PDF/kepler/nvidia-tesla-k40.pdf) with [NVlink pair connection](https://www.nvidia.com/en-us/design-visualization/nvlink-bridges/). 
+      - GPU Model: [NVIDIA Tesla K40m 11Gb](https://www.nvidia.com/content/PDF/kepler/nvidia-tesla-k40.pdf). 
       - Number of GPUs per Node: 2 
       - Memory per node: 110G 
 
