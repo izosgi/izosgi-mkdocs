@@ -57,7 +57,7 @@ The ARINA-ZAHAR cluster was created in 2015 and upgraded in 2017.
 
 The following tabs shows the different types and features of the computing nodes:
 
-=== "Login nodes"" 
+=== "Login nodes" 
     The cluster can be accessed connecting via ssh to the following login nodes : 
 
         1. kalk2017.lgp.ehu.es
