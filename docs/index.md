@@ -8,3 +8,10 @@ The Scientific Computing Service provides high performance computing resources, 
 [Link to the acknowledge phrase](https://www.ehu.eus/documents/2458249/2653628/TEXTO+DE+AGRADECIMIENTOS+A+SGIKER+TRILINGUE.pdf/a4ccf8c4-dc67-48c7-b5ef-ac0bf588003c){target=_blank}
 
 
+
+
+Like for the rest of the SGIker Services, the Governing Council of the University will annually approve the table of rates to be applied to the services with specifications of the different modalities, according to the nature and institutional relationship of the users.
+
+The rates, at a minimum, must cover the costs of consumables used in the provision and basic maintenance of the equipment and facilities.
+
+You can consult the [Public Price Catalog]{https://www.ehu.eus/SGIker/tarifas_generales/tarifas_CAS_ULT.pdf}{target=blank} at the last page of this link.
