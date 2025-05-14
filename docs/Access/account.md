@@ -58,7 +58,7 @@ Please, send an email with the following data to ***izo-sgi@ehu.eus*** :
     - email: 
     - Company and department: 
 
-Once you receive the credentials as invited researcher, you will be required to modify your password by accessing to [BILATU](https://www.ehu.eus/bilatu/login/login.php). 
+Once you receive the credentials as invited researcher, you will be required to modify your password by accessing to [BILATU](https://www.ehu.eus/bilatu/login/login.php){target=_blank}. 
 
 The next step will be to follow the same procedure described for the [UPV/EHU members]("UPV/EHU Researchers").
 
