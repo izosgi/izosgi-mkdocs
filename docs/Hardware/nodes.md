@@ -20,8 +20,8 @@ The following tabs shows the different types and features of the computing nodes
      **amd192** and **xeon40**
 
     !!! info "adm192"
-    - Total Number of Nodes: 18 ( named : **naXX** )
-    - Processor Type: 2 x [AMD EPYC 9654 Processor with 96 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html)
+    - Total Number of Nodes: 22 ( named : **naXX** )
+    - Processor Type: 2 x [AMD EPYC 9654 Processor with 96 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html){target=_blank}
     - Number of Cores per Node: 192 
     - Total Number of Cores: 3456
     - Memory per Node: 4Gb / core = 768 Gb
@@ -29,27 +29,35 @@ The following tabs shows the different types and features of the computing nodes
 
     !!! info "xeon40"
     - Total Number of Nodes: 44 (named **nhXXX** )
-    - Processor Type:  2 x [Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz with 20 cores](https://www.intel.la/content/www/xl/es/products/sku/192437/intel-xeon-gold-6230-processor-27-5m-cache-2-10-ghz/specifications.html)
+    - Processor Type:  2 x [Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz with 20 cores](https://www.intel.la/content/www/xl/es/products/sku/192437/intel-xeon-gold-6230-processor-27-5m-cache-2-10-ghz/specifications.html){target=_blank}
     - Number of Cores per Node: 40 
     - Total Number of Cores: 1760
     - Memory per Node: 4,75Gb / core = 190 Gb
     - Total Memory: 8,1 Tb
 
 === "Specialized Nodes: FAT & GPUs"
-    !!! info "GPU Nodes"
+    !!! info "A100 GPU Node"
       
       - Number of GPU Nodes: 1  ( named **nagpu01** )
-      - Processor type : 2 x [AMD EPYC 9654 Processor with 96 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html)
-      - GPU Model: [NVIDIA A100 80Gb](https://www.nvidia.com/en-us/data-center/a100/) with [NVlink pair connection](https://www.nvidia.com/en-us/design-visualization/nvlink-bridges/). 
+      - Processor type : 2 x [AMD EPYC 9654 Processor with 96 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html){target=_blank}
+      - GPU Model: [NVIDIA A100 80Gb](https://www.nvidia.com/en-us/data-center/a100/){target=_blank} with [NVlink pair connection](https://www.nvidia.com/en-us/design-visualization/nvlink-bridges/){target=_blank}. 
       - Number of GPUs per Node: 8
       - MIG Partitioning: 4 x A100, 4 x 4g.40gb, 4 x 2g.20gb, 4 x 1g.20gb 
       - Memory per node: 1.5Tb 
 
+    !!! info "H100 GPU Node"
+      
+      - Number of GPU Nodes: 1  ( named **nagpu02** )
+      - Processor type : 2 x [AMD EPYC 9654 Processor with 96 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html){target=_blank}
+      - GPU Model: [NVIDIA H100 96Gb](https://www.nvidia.com/en-us/data-center/h100/){target=_blank} with [NVlink pair connection](https://www.nvidia.com/en-us/design-visualization/nvlink-bridges/){target=_blank}. 
+      - Number of GPUs per Node: 8
+      - MIG Partitioning: 2 x H100, 2 x 4g.47gb, 2 x 2g.24gb, 2 x 1g.24gb 
+      - Memory per node: 1.5Tb 
 
     !!! info "High-Memory Nodes (FAT-node)" 
 
     - Number of High-Memory Nodes: 1 ( name **nh045**, however GPU node can be used also as a FAT-node)
-    - Processor Type:  2 x [Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz with 20 cores](https://www.intel.la/content/www/xl/es/products/sku/192437/intel-xeon-gold-6230-processor-27-5m-cache-2-10-ghz/specifications.html)
+    - Processor Type:  2 x [Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz with 20 cores](https://www.intel.la/content/www/xl/es/products/sku/192437/intel-xeon-gold-6230-processor-27-5m-cache-2-10-ghz/specifications.html){target=_blank}
     - Memory per High-Memory Node: 1,5Tb.
 
 ## Cluster 2: **ARINA-ZAHAR**
@@ -69,7 +77,7 @@ The following tabs shows the different types and features of the computing nodes
 
     !!! info "xeon28"
     - Total Number of Nodes: 67 ( named : **ndXX** )
-    - Processor Type: 2 x [Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz Processor with 14 cores](https://www.intel.com/content/www/us/en/products/sku/91754/intel-xeon-processor-e52680-v4-35m-cache-2-40-ghz/specifications.html)
+    - Processor Type: 2 x [Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz Processor with 14 cores](https://www.intel.com/content/www/us/en/products/sku/91754/intel-xeon-processor-e52680-v4-35m-cache-2-40-ghz/specifications.html){target=_blank}
     - Number of Cores per Node: 28 
     - Total Number of Cores: 1876
     - Memory per Node: 4.4Gb / core = 125 Gb
@@ -77,7 +85,7 @@ The following tabs shows the different types and features of the computing nodes
 
     !!! info "xeon20"
     - Total Number of Nodes: 35 (named **nbXXX** )
-    - Processor Type:  2 x [Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHzwith 10 cores](https://www.intel.com/content/www/us/en/products/sku/75277/intel-xeon-processor-e52680-v2-25m-cache-2-80-ghz/specifications.html)
+    - Processor Type:  2 x [Intel(R) Xeon(R) CPU E5-2680 v2 @ 2.80GHzwith 10 cores](https://www.intel.com/content/www/us/en/products/sku/75277/intel-xeon-processor-e52680-v2-25m-cache-2-80-ghz/specifications.html){target=_blank}
     - Number of Cores per Node: 20 
     - Total Number of Cores: 700
     - Memory per Node: 6.4Gb / core = 128 Gb
@@ -87,13 +95,13 @@ The following tabs shows the different types and features of the computing nodes
     !!! info "GPU Nodes"
       
       - Number of GPU Nodes: 1  ( named **nd15** )
-      - Processor type : 2 x [Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz processor with 14 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html)
-      - GPU Model: [NVIDIA Tesla K40m 11Gb](https://www.nvidia.com/content/PDF/kepler/nvidia-tesla-k40.pdf). 
+      - Processor type : 2 x [Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz processor with 14 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html){target=_blank}
+      - GPU Model: [NVIDIA Tesla K40m 11Gb](https://www.nvidia.com/content/PDF/kepler/nvidia-tesla-k40.pdf){target=_blank}. 
       - Number of GPUs per Node: 2 
       - Memory per node: 110G 
 
     !!! info "High-Memory Nodes (FAT-node)" 
 
     - Number of High-Memory Nodes: 2 ( name **nb31**, however GPU node can be used also as a FAT-node)
-    - Processor Type:  2 x [ Intel(R) Xeon(R) CPU E5-4620 v2 @ 2.60GHzwith 16 cores](https://www.intel.com/content/www/us/en/products/sku/75286/intel-xeon-processor-e54620-v2-20m-cache-2-60-ghz/specifications.html)
+    - Processor Type:  2 x [ Intel(R) Xeon(R) CPU E5-4620 v2 @ 2.60GHzwith 16 cores](https://www.intel.com/content/www/us/en/products/sku/75286/intel-xeon-processor-e54620-v2-20m-cache-2-60-ghz/specifications.html){target=_blank}
     - Memory per High-Memory Node: 1,5Tb.
