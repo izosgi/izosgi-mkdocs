@@ -14,4 +14,4 @@ Like for the rest of the SGIker Services, the Governing Council of the Universit
 
 The rates, at a minimum, must cover the costs of consumables used in the provision and basic maintenance of the equipment and facilities.
 
-You can consult the [Public Price Catalog]{https://www.ehu.eus/SGIker/tarifas_generales/tarifas_CAS_ULT.pdf}{target=blank} at the last page of this link.
+You can consult the [Public Price Catalog](https://www.ehu.eus/SGIker/tarifas_generales/tarifas_CAS_ULT.pdf){target=blank} at the last page of this link.
