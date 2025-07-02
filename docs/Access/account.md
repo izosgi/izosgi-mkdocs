@@ -16,7 +16,7 @@ The request of an account have to be done by completing the required form availa
 
 === "Time of calculation request" 
 
-    If your group still don't have an account in our service, we strongly recommend to fulfill the form "[*Time of calculation request*](www.ehu.es/CUENTA)" with the data of the new **principal investigator** and the information concerning the research line of the group. Besides, in order to consider your resource demands for future extensions of the service, we request you for an estimation of the CPU/GPU time. 
+    If your group still don't have an account in our service, we strongly recommend to fulfill the form "[*Time of calculation request*](https://www.ehu.es/sgi/CUENTA){target=_blank}" with the data of the new **principal investigator** and the information concerning the research line of the group. Besides, in order to consider your resource demands for future extensions of the service, we request you for an estimation of the CPU/GPU time. 
 
     The data that will be required is: 
 
@@ -29,13 +29,13 @@ The request of an account have to be done by completing the required form availa
 
 === "Experienced or Permanent researchers"
 
-    Experienced researchers, that have been authorized by the IP of the group, can directly apply for an account by selecting the "[*New account request*](www.ehu.es/CUENTA)" button from the left banner.
+    Experienced researchers, that have been authorized by the IP of the group, can directly apply for an account by selecting the "[*New account request*](https://www.ehu.es/CUENTA)"{target=_blank} button from the left banner.
 
     The required data will be automatically loaded from the corporative LDAP account, and then you just have to select the head of the research group from the list.
 
 === "PhD, Master or other students"
 
-    For PhD, Master or other kind of student, the form must be fulfilled by the IP of the group to guarantee the agreement of the usage condiction of the ARINA cluster. In that case, please choose the  "[*New account request with guarantee*](www.ehu.es/CUENTA)" button located on the left banner. 
+    For PhD, Master or other kind of student, the form must be fulfilled by the IP of the group to guarantee the agreement of the usage condiction of the ARINA cluster. In that case, please choose the  "[*New account request with guarantee*](https://www.ehu.es/sgi/CUENTA){target=_blank}" button located on the left banner. 
 
     The data that will be required is: 
 
