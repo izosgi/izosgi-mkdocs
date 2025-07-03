@@ -56,7 +56,7 @@ extra:
     - icon: material/linkedin
       link: https://linkedin.com/in/joaquim-jornet-somoza-61a7a5b4 
     - icon: material/email
-      #link: /contact
+      link: /contact
     - icon: material/account
       link: http://www.ehu.eus/sgi/CUENTA
 
