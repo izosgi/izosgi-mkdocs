@@ -29,7 +29,7 @@ The request of an account have to be done by completing the required form availa
 
 === "Experienced or Permanent researchers"
 
-    Experienced researchers, that have been authorized by the IP of the group, can directly apply for an account by selecting the "[*New account request*](https://www.ehu.es/CUENTA)"{target=_blank} button from the left banner.
+    Experienced researchers, that have been authorized by the IP of the group, can directly apply for an account by selecting the "[*New account request*](https://www.ehu.es/sgi/CUENTA){target=_blank}" button from the left banner.
 
     The required data will be automatically loaded from the corporative LDAP account, and then you just have to select the head of the research group from the list.
 
