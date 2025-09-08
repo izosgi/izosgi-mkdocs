@@ -1,5 +1,5 @@
 site_name: IZO-SGI Scientific Computing (ARINA)
-site_url: https://izosgi.ehu.es
+site_url: https://scc.ehu.es
 theme:
   name: material
   font: 
@@ -12,22 +12,26 @@ theme:
   #  - navigation.footer
   palette: 
     # Dark Mode 
-    - media: "(prefers-color-scheme: light)"
-      scheme: slate
+    #-media: "(prefers-color-scheme: light)"
+    - scheme: izosgi-dark
       toggle: 
         icon: material/weather-sunny
-        name: Dark mode
+        name: Light mode
       primary: indigo
       accent: deep purple
 
     # Light Mode 
-    - media: "(prefers-color-scheme: dark)"
-      scheme: default
+    #- media: "(prefers-color-scheme: dark)"
+    - scheme: izosgi-light #default 
       toggle: 
         icon: material/weather-night
-        name: Light mode
-      primary: light blue
+        name: Dark mode
+      primary: light blue # banner
       accent: purple
+
+extra_css:
+  #- css/overrides.css
+  - stylesheets/extra.css
 
 markdown_extensions:
   - attr_list
@@ -60,7 +64,6 @@ extra:
     - icon: material/account
       link: http://www.ehu.eus/sgi/CUENTA
 
-extra_css:
-  - stylesheets/extra.css
+
 
 copyright: Copyright &copy; 2025 IZO-SGIker
