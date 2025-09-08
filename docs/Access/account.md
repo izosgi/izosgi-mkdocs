@@ -1,4 +1,4 @@
-# **ARINA accounts**
+# ARINA accounts
 
 To access the high-performance computing (HPC) resources at Scientific Computing Service of the SGIker (UPV/EHU), you need a valid ARINA cluster account. If you don't have one yet, please apply for an account.
 
