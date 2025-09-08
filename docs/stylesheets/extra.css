@@ -1,17 +1,25 @@
-[data-md-color-scheme="slate"] {
+/* [data-md-color-scheme="slate"] {
     --md-hue: 225; 
-}
+} */
 
 [data-md-color-scheme="izosgi-dark"] {
-    --md-default-fg-coler:        #1c115a;
-    --md-primary-fg-color:        #1c115a;
-    --md-primary-fg-color--light: #1c115a;
-    --md-primary-fg-color--dark:  #7385e9;
-    --md-primary-bg-color:        #fcfcfc;
+    --md-default-bg-color:        #1a1818;   /* background text sytle text*/
+    --md-typeset-color:           #ffffff;   /* text sytle text*/
+    --md-default-fg-color:        #ffffff;
+    --md-default-fg-color--light: #aaa3a3;
+    --md-default-fg-color--lighter: #dddddd;
+    --md-primary-fg-color:        #130466;   /* banner background; */
+    --md-primary-bg-color:        #ffffff;  /* # text in banner */
+    --md-code-bg-color:           #272424;   /* background for the "code" sytle */
+    --md-code-fg-color:           #c9c5c5;   /* text for the "code" sytle*/
+    --md-admonition-fg-color:     #ffffff;   /*color for the info, warning, note, tip, ... */
+    --md-admonition-bg-color:     #1a1818;
+
   }
 
+
 [data-md-color-scheme="izosgi-light"] {
-    --md-primary-fg-color:        #9b89fd;
+    --md-primary-fg-color:        #200c94;
     --md-primary-fg-color--light: #7d69ec;
-    --md-primary-fg-color--dark:  #7385e9;
+    --md-primary-fg-color--dark:  #041868;
   }
