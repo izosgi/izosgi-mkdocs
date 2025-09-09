@@ -17,8 +17,8 @@ theme:
       toggle: 
         icon: material/weather-sunny
         name: Light mode
-      primary: indigo
-      accent: deep purple
+      #primary: indigo
+      #accent: deep purple
 
     # Light Mode 
     #- media: "(prefers-color-scheme: dark)"
@@ -26,8 +26,8 @@ theme:
       toggle: 
         icon: material/weather-night
         name: Dark mode
-      primary: light blue # banner
-      accent: purple
+      #primary: light blue # banner
+      #accent: purple
 
 extra_css:
   #- css/overrides.css
