@@ -50,7 +50,7 @@ The following tabs shows the different types and features of the computing nodes
       - Number of GPU Nodes: 1  ( named **nagpu02** )
       - Processor type : 2 x [AMD EPYC 9654 Processor with 96 cores](https://www.amd.com/en/products/processors/server/epyc/4th-generation-9004-and-8004-series/amd-epyc-9654.html){target=_blank}
       - GPU Model: [NVIDIA H100 96Gb](https://www.nvidia.com/en-us/data-center/h100/){target=_blank} with [NVlink pair connection](https://www.nvidia.com/en-us/design-visualization/nvlink-bridges/){target=_blank}. 
-      - Number of GPUs per Node: 8
+      - Number of GPUs per Node: 4
       - MIG Partitioning: 2 x H100, 2 x 4g.47gb, 2 x 2g.24gb, 2 x 1g.24gb 
       - Memory per node: 1.5Tb 
 
