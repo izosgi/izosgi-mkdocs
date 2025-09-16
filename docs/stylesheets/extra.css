@@ -3,23 +3,23 @@
 } */
 
 [data-md-color-scheme="izosgi-dark"] {
-    --md-default-bg-color:          #1a1818;   /* background text sytle text*/
+    --md-default-bg-color:          #010814;   /* background text sytle text*/
     --md-default-fg-color:          #fa8e00;   /* active interactive table tag */ 
     --md-default-fg-color--light:   #dad7d7;   /* Text on sidebar and inactive interactives tables*/
     --md-default-fg-color--lighter: #a08080;
 
-    --md-typeset-color:             #ffffff;   /* text sytle text*/
+    --md-typeset-color:             #e2e1df;   /* text sytle text*/
     --md-typeset-a-color:           #4afa04;   /*  links */
     --md-typeset-del-color:         #ff0000;          /* <del> text (red background) */
 
     --md-primary-fg-color:          #130466;   /* banner background; */
     --md-primary-bg-color:          #ffffff;  /* # text in banner */
 
-    --md-code-bg-color:             #272424;   /* background for the "code" sytle */
+    --md-code-bg-color:             #16162c;   /* background for the "code" sytle */
     --md-code-fg-color:             #c9c5c5;   /* text for the "code" sytle*/
 
     --md-admonition-fg-color:       #ffffff;   /*color for the info, warning, note, tip, ... */
-    --md-admonition-bg-color:       #1a1818;    /* background of admonitions */
+    --md-admonition-bg-color:       #141222;    /* background of admonitions */
 
     --md-accent-fg-color:              #fa8e00;   /* color cuando pasas por encima de un objeto link*/ 
     --md-accent-fg-color--transparent: #c27d4f;   /*  ¿? */ 
