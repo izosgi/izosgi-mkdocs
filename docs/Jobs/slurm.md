@@ -21,4 +21,3 @@ SLURM provides a wide range of directives to specify resource requirements and o
 
 Directives allow you to control various aspects of job execution, such as CPU and memory allocation, job name, output files, and execution time.
 
-## SBATCH 
