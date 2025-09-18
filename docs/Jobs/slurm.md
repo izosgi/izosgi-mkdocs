@@ -21,3 +21,50 @@ SLURM provides a wide range of directives to specify resource requirements and o
 
 Directives allow you to control various aspects of job execution, such as CPU and memory allocation, job name, output files, and execution time.
 
+In the following we describe the minimal BATCH options and some usefull and common variables: 
+
+## BATCH examples
+
+=== "Serial"
+    ```
+    #SBATCH --nodes=1
+    #SBATCH --ntasks=1
+
+    module load MYPROGRAM
+    myprogram
+    ```
+
+=== "Pure MPI / Distributed memory"
+    ```
+    #SBATCH --nodes=2
+    #SBATCH --ntasks-per-node=4
+    
+    module load MYPROGRAM
+    srun myprogram
+
+    ```
+
+=== "Pure OpenMPI / Thread Paralleization"
+    ```
+    #SBATCH --nodes=1
+    #SBATCH --ntasks-per-node=1
+    #SBATCH --cpus-per-task=8
+
+    export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
+    
+    module load MYPROGRAM
+    srun myprogram
+
+    ```
+=== "Hybrid MPI-OpenMPI "
+    ```
+    #SBATCH --nodes=2
+    #SBATCH --ntasks-per-node=1
+    #SBATCH --cpus-per-task=4
+
+    export OMP_NUM_THREADS=$SLURM_CPUS_PER_TASK
+    
+    module load MYPROGRAM
+    srun myprogram
+
+    ```
