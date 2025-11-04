@@ -160,7 +160,7 @@ Here below, we show some examples depending on the needs of your calculation.
     </figure>
 
 
-=== "Specific family"
+<!-- === "Specific family" -->
 
 In order to finish an interactive session, the user just have to execute the `exit` command. 
 
