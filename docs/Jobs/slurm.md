@@ -25,6 +25,12 @@ In the following we describe the minimal BATCH options and some usefull and comm
 
 ## BATCH examples
 
+!!! example "Minimal Examples"
+    In this section we show only minimal example to run in different parallelization protocols. 
+
+    For more specific batch scripts, please take a look on [Batch scitps](batch_scripts.md) section.
+
+
 === "Serial"
     ```
     #SBATCH --nodes=1

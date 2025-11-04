@@ -29,6 +29,25 @@ theme:
       #primary: light blue # banner
       #accent: purple
 
+nav:
+  - Welcome to Arina: index.md
+  - Access: 
+    - Get an Account: Access/account.md
+    - How to connect: Access/connect.md
+  - Hardware: 
+    - Resources: Hardware/resources.md
+    - Nodes: Hardware/nodes.md
+    - Storage: Hardware/filesystems.md
+    - Network: Hardware/network.md
+  - Running Jobs: 
+    - Modules: Jobs/modules.md
+    - Submitting jobs: Jobs/slurm.md
+    - Batch scripts: Jobs/batch_scripts.md
+    - Interactive sessions: Jobs/interactive.md
+  - About us: 
+    - ARINA Team: Contact/about.md
+    - Contact: Contact/contact.md
+
 extra_css:
   #- css/overrides.css
   - stylesheets/extra.css
@@ -54,13 +73,17 @@ markdown_extensions:
       combine_header_slug: true
   - admonition
   - pymdownx.details
+  # for align and captions of figures
+  - md_in_html
+  - pymdownx.blocks.caption
+
 
 extra:
   social:
     - icon: material/linkedin
       link: https://linkedin.com/in/joaquim-jornet-somoza-61a7a5b4 
     - icon: material/email
-      link: /contact
+      link: /Contact/contact
     - icon: material/account
       link: http://www.ehu.eus/sgi/CUENTA
 

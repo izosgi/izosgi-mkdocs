@@ -93,7 +93,7 @@ The list of the installed software in the cluster is exhaustive. If you want to 
 
 ```bash
 
-[qjornet@agamede:~]$ module spider Python
+[user@agamede:~]$ module spider Python
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Python:
@@ -174,7 +174,7 @@ For example for : `SciPy-bundle/2023.11-gfbf-2023b`
 If no version of the software is specified, the module manager will load the latest installed version. 
 
 ```bash
-[qjornet@agamede1:~]$ ml av ORCA     
+[user@agamede:~]$ ml av ORCA     
 
 ---------------------------------------- /eb/x86_64/modules/chem ------------------------------------------
    ORCA/5.0.4-gompi-2023a    ORCA/5.0.4-gompi-2023b    ORCA/6.0.0-gompi-2023b    ORCA/6.0.1-gompi-2023b (D)
