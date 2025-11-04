@@ -32,7 +32,8 @@ In the following we describe the minimal BATCH options and some usefull and comm
 
 
 === "Serial"
-    ```
+    ```bash
+    #!/bin/bash
     #SBATCH --nodes=1
     #SBATCH --ntasks=1
 
@@ -41,7 +42,8 @@ In the following we describe the minimal BATCH options and some usefull and comm
     ```
 
 === "Pure MPI / Distributed memory"
-    ```
+    ```bash
+    #!/bin/bash
     #SBATCH --nodes=2
     #SBATCH --ntasks-per-node=4
     
@@ -51,7 +53,8 @@ In the following we describe the minimal BATCH options and some usefull and comm
     ```
 
 === "Pure OpenMPI / Thread Paralleization"
-    ```
+    ```bash
+    #!/bin/bash
     #SBATCH --nodes=1
     #SBATCH --ntasks-per-node=1
     #SBATCH --cpus-per-task=8
@@ -63,7 +66,8 @@ In the following we describe the minimal BATCH options and some usefull and comm
 
     ```
 === "Hybrid MPI-OpenMPI "
-    ```
+    ```bash
+    #!/bin/bash
     #SBATCH --nodes=2
     #SBATCH --ntasks-per-node=1
     #SBATCH --cpus-per-task=4
