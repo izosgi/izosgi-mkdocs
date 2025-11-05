@@ -32,21 +32,21 @@ theme:
 nav:
   - Welcome to Arina: index.md
   - Access: 
-    - Get an Account: Access/account.md
-    - How to connect: Access/connect.md
+    - Get an Account: access/account.md
+    - How to connect: access/connect.md
   - Hardware: 
-    - Resources: Hardware/resources.md
-    - Nodes: Hardware/nodes.md
-    - Storage: Hardware/filesystems.md
-    - Network: Hardware/network.md
+    - Resources: hardware/resources.md
+    - Nodes: hardware/nodes.md
+    - Storage: hardware/filesystems.md
+    - Network: hardware/network.md
   - Running Jobs: 
-    - Modules: Jobs/modules.md
-    - Submitting jobs: Jobs/slurm.md
-    - Batch scripts: Jobs/batch_scripts.md
-    - Interactive sessions: Jobs/interactive.md
+    - Modules: jobs/modules.md
+    - Submitting jobs: jobs/slurm.md
+    - Batch scripts: jobs/batch_scripts.md
+    - Interactive sessions: jobs/interactive.md
   - About us: 
-    - ARINA Team: Contact/about.md
-    - Contact: Contact/contact.md
+    - ARINA Team: contact/about.md
+    - Contact: contact/contact.md
 
 extra_css:
   #- css/overrides.css
@@ -83,7 +83,7 @@ extra:
     - icon: material/linkedin
       link: https://linkedin.com/in/joaquim-jornet-somoza-61a7a5b4 
     - icon: material/email
-      link: /Contact/contact
+      link: /contact/contact
     - icon: material/account
       link: http://www.ehu.eus/sgi/CUENTA
 

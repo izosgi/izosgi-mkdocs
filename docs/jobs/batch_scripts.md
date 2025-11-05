@@ -19,6 +19,8 @@ We prepared several BATCH scripts available in:
 
 ## Example SLURM Script (`slurm.sl`)
 
+The following example shows a general BATCH script that can be modified or adapted to most of the common calculations ran in ARINA:
+
 ```bash
 #!/bin/bash 
 #SBATCH --ntasks=4
@@ -64,6 +66,13 @@ echo /usr/bin/time -p srun ${command}
 eval /usr/bin/time -p srun ${command}
 
 ```
+
+Once the script is generated or modified, the `sbatch` command has to be executed in order to send the job to the cluster queues.
+
+!!! Example "Submitting a job"
+    ```bash
+    [user@agamede] sbatch slurm.sl
+    ```
 
 ---
 
