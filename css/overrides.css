@@ -1,0 +1,73 @@
+/* ===== Light Mode ===== */
+html[data-md-color-scheme="default"] {
+  --md-default-background-color: #ffffff;
+  --md-default-foreground-color: #000000;
+  --md-card-background-color: #ffffff;
+  --md-code-bg-color: #f5f5f5;
+  --md-table-border: #cccccc;
+  --md-primary-fg-color: #1e88e5;
+}
+
+/* ===== Dark Mode: TRUE BLACK ===== */
+html[data-md-color-scheme="slate"] {
+  --md-default-background-color: #000000;  /* page background */
+  --md-default-foreground-color: #ffffff;  /* text color */
+  --md-card-background-color: #000000;     /* cards/admonitions */
+  --md-code-bg-color: #000000;             /* code blocks */
+  --md-table-border: #ffffff;              /* table borders */
+  --md-primary-fg-color: #ffffff;          /* links */
+  --md-nav-link-color: #ffffff;
+  --md-nav-title-color: #ffffff;
+  --md-footer-background-color: #000000;
+}
+
+/* Slightly lighter top banner */
+html[data-md-color-scheme="slate"] .md-header {
+  background-color: #111111;
+  color: #ffffff;
+}
+
+/* Main content */
+html[data-md-color-scheme="slate"] .md-main {
+  background-color: var(--md-default-background-color);
+  color: var(--md-default-foreground-color);
+}
+
+/* Sidebar and footer */
+html[data-md-color-scheme="slate"] .md-sidebar,
+html[data-md-color-scheme="slate"] .md-footer {
+  background-color: var(--md-card-background-color);
+  color: var(--md-default-foreground-color);
+}
+
+/* Links */
+html[data-md-color-scheme="slate"] a {
+  color: var(--md-primary-fg-color);
+}
+
+/* Code blocks */
+html[data-md-color-scheme="slate"] code,
+html[data-md-color-scheme="slate"] pre {
+  background-color: var(--md-code-bg-color);
+  color: var(--md-default-foreground-color);
+}
+
+/* Tables */
+html[data-md-color-scheme="slate"] table {
+  border-color: var(--md-table-border);
+  background-color: var(--md-card-background-color);
+  color: var(--md-default-foreground-color);
+}
+
+/* Admonitions / cards */
+html[data-md-color-scheme="slate"] .md-card {
+  background-color: var(--md-card-background-color);
+  color: var(--md-default-foreground-color);
+}
+
+/* Blockquotes */
+html[data-md-color-scheme="slate"] blockquote {
+  background-color: var(--md-card-background-color);
+  color: var(--md-default-foreground-color);
+  border-left-color: var(--md-primary-fg-color);
+}
