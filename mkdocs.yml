@@ -44,6 +44,7 @@ nav:
     - Submitting jobs: jobs/slurm.md
     - Batch scripts: jobs/batch_scripts.md
     - Interactive sessions: jobs/interactive.md
+  - List of Rates: prices.md
   - About us: 
     - ARINA Team: contact/about.md
     - Contact: contact/contact.md

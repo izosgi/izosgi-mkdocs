@@ -27,7 +27,8 @@
     --md-code-hl-string-color:      #89fdc3;   /* text strings in code */
     /* --md-code-hl-function-color:      #f71000;   text strings in code */
 
-
+    --md-typeset-table-color:       #929191;   /* table text color */
+    --md-typeset-table-color--light:#8e8787;   /* table text color */
   
     --md-admonition-fg-color:       #ffffff;   /*color for the info, warning, note, tip, ... */
     --md-admonition-bg-color:       #141222;    /* background of admonitions */
