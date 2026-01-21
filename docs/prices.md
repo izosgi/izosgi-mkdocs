@@ -12,20 +12,20 @@ You can consult the [Public Price Catalog](https://www.ehu.eus/SGIker/tarifas_ge
     | Label       |      Concept         |   Unit     |     Cost (€ / cpuh)     |
     |-----------------|:---------------:|--------------|:-----------:|
     | INFOR01001 | CPU usage  |   CPU / hour (cpuh)  | 0.001 |
-    | INFOR01001 | GPU usage  |   GPU / hour (cpuh)  | 0.032 | 
+    | INFOR01002 | GPU usage  |   GPU / hour (cpuh)  | 0.032 | 
 
 
 === "OPIs : Organismos Públicos de Investigación"
     | Label       |      Concept         |   Unit     |     Cost (€ / cpuh)     |
     |-----------------|:---------------:|--------------|:-----------:|
     | INFOR01001 | CPU usage  |   CPU / hour (cpuh)  | 0.006 |
-    | INFOR01001 | GPU usage  |   GPU / hour (cpuh)  | 0.236 | 
+    | INFOR01002 | GPU usage  |   GPU / hour (cpuh)  | 0.236 | 
 
 === "External Companies"
     | Label       |      Concept         |   Unit     |     Cost (€ / cpuh)     |
     |-----------------|:---------------:|--------------|:-----------:|
     | INFOR01001 | CPU usage  |   CPU / hour (cpuh)  | 0.010 |
-    | INFOR01001 | GPU usage  |   GPU / hour (cpuh)  | 0.356 | 
+    | INFOR01002 | GPU usage  |   GPU / hour (cpuh)  | 0.356 | 
 
 
 !!! info "GPU/h cost " 
