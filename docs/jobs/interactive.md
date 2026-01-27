@@ -1,8 +1,5 @@
 # Interactive sessions
 
-!!! info " Information" 
-
-    This page is under construction.
 
 It is not allowed to run any type of calculation into the login nodes, in order to avoid 
 risks that may effect other users or the global behaviour of the cluster. 
