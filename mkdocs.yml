@@ -44,10 +44,15 @@ nav:
     - Submitting jobs: jobs/slurm.md
     - Batch scripts: jobs/batch_scripts.md
     - Interactive sessions: jobs/interactive.md
+  - Environments:
+    - Python: environments/python.md
+    - R-scripts: environments/r.md
+  # - Singularity: environments/singularity.md
   - List of Rates: prices.md
   - About us: 
     - ARINA Team: contact/about.md
     - Contact: contact/contact.md
+
 
 extra_css:
   #- css/overrides.css
@@ -72,6 +77,10 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
   - admonition
   - pymdownx.details
   # for align and captions of figures
@@ -90,4 +99,4 @@ extra:
 
 
 
-copyright: Copyright &copy; 2025 IZO-SGIker
+copyright: Copyright &copy; 2025-2026 IZO-SGIker
