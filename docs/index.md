@@ -1,4 +1,4 @@
-# Welcome to ARINA:  The Scientific Computing Center of the IZO-SGIker (EHU)
+# Welcome to ARINA:  The Scientific Computing Center (SCC) of the IZO-SGIker (EHU)
 
 
 ## AIM
