@@ -1,0 +1,69 @@
+/* [data-md-color-scheme="slate"] {
+    --md-hue: 225; 
+} */
+
+[data-md-color-scheme="izosgi-dark"] {
+    --md-default-bg-color:          #010814;   /* background text sytle text*/
+    --md-default-fg-color:          #fa8e00;   /* active interactive table tag */ 
+    --md-default-fg-color--light:   #f3b07a;   /* Text on sidebar and inactive interactives tables*/
+    --md-default-fg-color--lighter: #a08080;
+
+    --md-typeset-color:             #e2e1df;   /* text sytle text*/
+    --md-typeset-a-color:           #4afa04;   /*  links */
+    --md-typeset-del-color:         #ff0000;          /* <del> text (red background) */
+
+    --md-primary-fg-color:          #130466;   /* banner background; */
+    --md-primary-bg-color:          #ffffff;  /* # text in banner */
+
+    --md-footer-fg-color:           #130466;
+
+    --md-code-bg-color:             #16162c;   /* background for the "code" sytle */
+    --md-code-fg-color:             #c9c5c5;   /* text for the "code" sytle*/
+    /*https://github.com/squidfunk/mkdocs-material/blob/master/src/templates/assets/stylesheets/main/_colors.scss  */
+    --md-code-hl-comment-color:     #e09c9c;   /* function names in code */
+    --md-code-hl-variable-color:    #ffffff;   /* variable names in code */
+    --md-code-hl-operator-color:    #ffffff;   /* operation symbols in code */
+    --md-code-hl-keyword-color:     #b3f587;   /*  characters like $() or import in python in code */
+    --md-code-hl-string-color:      #89fdc3;   /* text strings in code */
+    /* --md-code-hl-function-color:      #f71000;   text strings in code */
+
+    --md-typeset-table-color:       #929191;   /* table text color */
+    --md-typeset-table-color--light:#8e8787;   /* table text color */
+  
+    --md-admonition-fg-color:       #ffffff;   /*color for the info, warning, note, tip, ... */
+    --md-admonition-bg-color:       #141222;    /* background of admonitions */
+
+    --md-accent-fg-color:              #fa8e00;   /* color cuando pasas por encima de un objeto link*/ 
+    --md-accent-fg-color--transparent: #c27d4f;   /*  ¿? */ 
+    --md-accent-bg-color:              #c27d4f;   /*  ¿? */ 
+    --md-accent-bg-color--light:       #ffffff;   /*  ¿? */
+  }
+
+/* defining colors for the dark theme */
+
+
+
+
+/* definition of the light theme */ 
+
+
+[data-md-color-scheme="izosgi-light"] {
+    --md-primary-fg-color:        #200c94;
+    --md-primary-fg-color--light: #ec6969;
+    --md-primary-fg-color--dark:  #041868;
+  }
+
+  /* Top banners  */
+  /* Light mode */
+[data-md-color-scheme="izosgi-light"] .md-header {
+  background: url("../img/chatgpt-topbanner-darktheme.png") no-repeat center center;
+  background-size: cover;
+  /* invert colors */
+  filter: invert(1);
+}
+
+/* Dark mode */
+[data-md-color-scheme="izosgi-dark"] .md-header {
+  background: url("../img/chatgpt-topbanner-darktheme.png") no-repeat center center;
+  background-size: cover;
+}
