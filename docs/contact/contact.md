@@ -4,7 +4,7 @@
 
 The main channel to conctact with the ARINA support team is sending an email to : 
 
-!!! Danger "izo-sgi@ehu.eus"
+!!! Danger "support.scc@ehu.eus"
 
 This email is shared amount the all of us to provide a better user experience, since we will be able to solve any issue as soon as possible. 
 
