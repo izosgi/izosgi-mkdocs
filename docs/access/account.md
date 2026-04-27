@@ -11,7 +11,7 @@ The request of an account have to be done by completing the required form availa
 
 !!! info "Login with LDAP account of the UPV/EHU"
     In order to access to the [form](https://www.ehu.es/sgi/CUENTA){target=_blank}, you need a valid EHU/UPV credentials.
-    If you done have, please, contact the support and administration teams at **izo-sgi@ehu.eus** .
+    If you done have, please, contact the support and administration teams at **support.scc@ehu.eus** .
 
 
 === "Time of calculation request" 
@@ -51,7 +51,7 @@ The request of an account have to be done by completing the required form availa
 ## OPIs & External Researchers
 Researchers of external companies have to contact the administrators to create an account to get access to the EHU/UPV network. 
 
-Please, send an email with the following data to ***izo-sgi@ehu.eus*** : 
+Please, send an email with the following data to ***support.scc@ehu.eus*** : 
 
     - DNI/NIE: 
     - Name:         First Surname:          Second Surname:

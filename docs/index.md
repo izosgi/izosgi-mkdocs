@@ -3,7 +3,13 @@
 
 ## AIM
 
-The Scientific Computing Service provides high performance computing resources, specialized technical support and consulting to researchers at the Euskal Herriko Unibertsitea (EHU), other public organizations and companies. The service provides its own computing resources with powerful hardware, upgrade policies and distributes the computational resources. The service analyzes new tendencies in HPC (High Performance Computing) for its possible implementation in the EHU. The IZO-SGI is part of the [General Research Services (SGIker)](http://www.ehu.es/sgiker){target=_blank} of the EHU, and therefore complies with the protocols established by the SGIker. All results published using the IZO-SGI resources should acknowledgment its usage and send a copy of the publication. This publications will be used to evaluate the users when prioritizing the use of the Service. The phrase we propose for the acknowledgments is:
+The Scientific Computing Center (SCC) provides high performance computing resources, specialized technical support and consulting to researchers at the Euskal Herriko Unibertsitatea (EHU), other public organizations and companies. The service provides its own computing resources with powerful hardware, upgrade policies and distributes the computational resources. The service analyzes new tendencies in HPC (High Performance Computing) for its possible implementation in the EHU. The IZO-SGI is part of the [General Research Services (SGIker)](http://www.ehu.es/sgiker){target=_blank} of the EHU, and therefore complies with the protocols established by the SGIker. 
+
+**All results published using the IZO-SGI resources should acknowledge its usage and send a copy of the publication**. This publications will be used for statistical aims in order to analyse the usage, take decisions for service enhancements and defend the service relevance. The phrase we propose for the acknowledgments is:
+
+!!! danger "**Acknowledgements**"
+
+    *The authors thank for technical and human support provided by Scientific Computing Service of the SGIker (UPV/EHU/FEDER, EU)*
 
 [Link to the acknowledge phrase](https://www.ehu.eus/documents/2458249/2653628/TEXTO+DE+AGRADECIMIENTOS+A+SGIKER+TRILINGUE.pdf/a4ccf8c4-dc67-48c7-b5ef-ac0bf588003c){target=_blank}
 
@@ -14,4 +20,4 @@ Like for the rest of the SGIker Services, the Governing Council of the Universit
 
 The rates, at a minimum, must cover the costs of consumables used in the provision and basic maintenance of the equipment and facilities.
 
-You can consult the [Public Price Catalog](https://www.ehu.eus/SGIker/tarifas_generales/tarifas_CAS_ULT.pdf){target=blank} at the last page of this link.
+You can consult the [Public Price Catalog](prices.md){target=blank} at the last page of this link.
