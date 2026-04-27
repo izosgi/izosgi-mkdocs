@@ -2,7 +2,7 @@
 
 ## Management and Support 
 
-Our operations are driven by a team of dedicated professionals who offer a variety of services to ensure a seamless high-performance computing environment. If you have any questions, concerns, or suggestions, we encourage you to contact us through our general support email at **izo-sgi@ehu.eus**. For inquiries directed to a specific team member, their contact details are provided below.
+Our operations are driven by a team of dedicated professionals who offer a variety of services to ensure a seamless high-performance computing environment. If you have any questions, concerns, or suggestions, we encourage you to contact us through our general support email at **support.scc@ehu.eus**. For inquiries directed to a specific team member, their contact details are provided below.
 
 ### Dr. Joaquim JORNET SOMOZA
 
