@@ -14,13 +14,7 @@ Key features of our HPC cluster include:
 
 The HPC cluster is managed by a dedicated team of experts who provide user support, training, and documentation to help researchers make the most of this powerful resource. Our goal is to facilitate cutting-edge research and innovation by providing access to world-class computational infrastructure.
 
-You can find a detailed description of the nodes characteristics, network connectivy and file systems in the following links: 
-
-- #### [Compute nodes and Specialized nodes](nodes.md) 
-- #### [Network connectivity](network.md)
-- #### [File systems : home directory and parallel file systems](filesystems.md)
-
-## Cluster naming 
+## Arina cluster Specification 
 
 
 <div style="text-align: left;">
@@ -56,3 +50,10 @@ You can find a detailed description of the nodes characteristics, network connec
 
 
 [![agamede](/img/agamede-anime.png){style="float:left; margin-right: 30px; width:200px;" }](history/agamede.md)  -->
+
+You can find a detailed description of the nodes characteristics, network connectivy and file systems in the following links: 
+
+- #### [Compute nodes and Specialized nodes](nodes.md) 
+- #### [Network connectivity](network.md)
+- #### [File systems : home directory and parallel file systems](filesystems.md)
+
