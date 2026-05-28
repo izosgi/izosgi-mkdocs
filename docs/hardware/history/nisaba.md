@@ -11,7 +11,7 @@
 - **9 compute nodes**
 - Up to **256 cores per node**
 - **6 high-performance GPUs** (NVIDIA H200)
-- Integrated **quantum emulator** (Qpativa 800)
+- Integrated **quantum emulator** (Qaptiva 800)
 - Architecture optimized for:
   - Simulation of complex biological systems
   - Molecular and multiscale modeling
@@ -34,7 +34,7 @@ Nisaba was the goddess of:
 
 Her name can be interpreted as *"She who teaches the divine laws."* She was often depicted holding a stylus and inscribing knowledge onto clay tablets representing the cosmos.
 
-### Symbolism
+## Symbolism
 
 The metaphor aligns closely with the mission of the system:
 
