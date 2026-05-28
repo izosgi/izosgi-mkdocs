@@ -20,4 +20,9 @@ You can find a detailed description of the nodes characteristics, network connec
 - #### [Network connectivity](network.md)
 - #### [File systems : home directory and parallel file systems](filesystems.md)
 
+## Cluster naming 
 
+[![nisaba](/img/nisaba-anime.png){style="float:left; margin-right: 30px; width:200px;" }](history/nisaba.md) 
+
+
+[![agamede](/img/agamede-anime.png){style="float:left; margin-right: 30px; width:200px;" }](history/agamede.md) 

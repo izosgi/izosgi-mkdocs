@@ -39,6 +39,9 @@ nav:
     - Nodes: hardware/nodes.md
     - Storage: hardware/filesystems.md
     - Network: hardware/network.md
+    - History: 
+      - 2026 Nisaba: hardware/history/nisaba.md
+      - 2024 Agamede: hardware/history/agamede.md
   - Running Jobs: 
     - Modules: jobs/modules.md
     - Submitting jobs: jobs/slurm.md
