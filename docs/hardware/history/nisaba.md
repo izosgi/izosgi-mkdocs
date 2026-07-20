@@ -1,6 +1,6 @@
 # 2026 - Nisaba
 
-![nisaba](/img/nisaba-anime.png){style="display:block; margin: 30px auto; width:400px;" }
+![nisaba](/assets/img/nisaba-anime.png){style="display:block; margin: 30px auto; width:400px;" }
 
 ## System Overview
 

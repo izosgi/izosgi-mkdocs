@@ -1,6 +1,6 @@
 # 2024 - Agamede
 
-![agamede](/img/agamede-anime.png){style="display:block; margin: 30px auto; width:400px;" }
+![agamede](/assets/img/agamede-anime.png){style="display:block; margin: 30px auto; width:400px;" }
 
 ## System Overview
 

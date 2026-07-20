@@ -21,14 +21,14 @@ The HPC cluster is managed by a dedicated team of experts who provide user suppo
 
   <figure style="display: inline-block; margin: 20px;">
     <a href="/hardware/history/nisaba/">
-      <img src="/img/nisaba-anime.png" width="300">
+      <img src="/assets/img/nisaba-anime.png" width="300">
     </a>
     <figcaption>Nisaba — Quantum-enabled HPC cluster</figcaption>
   </figure>
 
   <figure style="display: inline-block; margin: 20px;">
     <a href="/hardware/history/agamede">
-      <img src="/img/agamede-anime.png" width="300">
+      <img src="/assets/img/agamede-anime.png" width="300">
     </a>
     <figcaption>Agamede — General-purpose HPC cluster</figcaption>
   </figure>
@@ -36,7 +36,7 @@ The HPC cluster is managed by a dedicated team of experts who provide user suppo
 
   <!-- <figure style="display: inline-block; margin: 20px;">
     <a href="/hardware/history/agamede">
-      <img src="/img/agamede-anime.png" width="300">
+      <img src="/assets/img/agamede-anime.png" width="300">
     </a>
     <figcaption>Agamede — General-purpose HPC cluster</figcaption>
   </figure> -->
@@ -46,10 +46,10 @@ The HPC cluster is managed by a dedicated team of experts who provide user suppo
 
 <!-- 
 
-[![nisaba](/img/nisaba-anime.png){style="float:left; margin-right: 30px; width:200px;" }](history/nisaba.md) 
+[![nisaba](/assets/img/nisaba-anime.png){style="float:left; margin-right: 30px; width:200px;" }](history/nisaba.md) 
 
 
-[![agamede](/img/agamede-anime.png){style="float:left; margin-right: 30px; width:200px;" }](history/agamede.md)  -->
+[![agamede](/assets/img/agamede-anime.png){style="float:left; margin-right: 30px; width:200px;" }](history/agamede.md)  -->
 
 You can find a detailed description of the nodes characteristics, network connectivy and file systems in the following links: 
 

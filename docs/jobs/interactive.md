@@ -152,7 +152,7 @@ Here below, we show some examples depending on the needs of your calculation.
 
     And the window opens like: 
     <figure markdown="span">
-        ![Molden](/img/interactive_exportX11.png) 
+        ![Molden](/assets/img/interactive_exportX11.png) 
     <figcaption></figcaption>
     </figure>
 

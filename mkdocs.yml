@@ -6,7 +6,7 @@ theme:
      text: Noto Sans
      code: Red Hat Mono
   # NOT WORKING !! (check out material documentation )
-  logo: img/sgiker-square.png  #copilot-logo.png
+  logo: assets/img/sgiker-square.png  #copilot-logo.png
   favicon: img/favicon.ico
   #features:
   #  - navigation.footer
@@ -59,7 +59,8 @@ nav:
 
 extra_css:
   #- css/overrides.css
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
+  - assets/stylesheets/fonts.css
 
 markdown_extensions:
   - attr_list
