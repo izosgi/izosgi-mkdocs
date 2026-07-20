@@ -1,0 +1,118 @@
+/* =========================================================
+   EHU CORPORATE DARK THEME
+   ========================================================= */
+
+[data-md-color-scheme="izosgi-dark"] {
+
+    /* Fondo y texto */
+    --md-default-bg-color:          #1A1A1A;
+    --md-default-fg-color:          #FFFFFF;
+    --md-default-fg-color--light:   #EEECE9;
+    --md-default-fg-color--lighter: #B1AB9F;
+
+    /* Contenido */
+    --md-typeset-color:             #EEECE9;
+    --md-typeset-a-color:           #5FD790;
+    --md-typeset-del-color:         #FF8D78;
+
+    /* Cabecera */
+    --md-primary-fg-color:          #5FD790;
+    --md-primary-bg-color:          #000000;
+
+    /* Footer */
+    --md-footer-fg-color:           #5FD790;
+
+    /* Código */
+    --md-code-bg-color:             #252525;
+    --md-code-fg-color:             #EEECE9;
+
+    --md-code-hl-comment-color:     #B1AB9F;
+    --md-code-hl-variable-color:    #FFFFFF;
+    --md-code-hl-operator-color:    #FFFFFF;
+    --md-code-hl-keyword-color:     #5FD790;
+    --md-code-hl-string-color:      #B0FBC1;
+
+    /* Tablas */
+    --md-typeset-table-color:        #EEECE9;
+    --md-typeset-table-color--light: #B1AB9F;
+
+    /* Admonitions */
+    --md-admonition-fg-color:       #FFFFFF;
+    --md-admonition-bg-color:       #242424;
+
+    /* Acentos */
+    --md-accent-fg-color:              #5FD790;
+    --md-accent-fg-color--transparent: rgba(95,215,144,.15);
+    --md-accent-bg-color:              #5FD790;
+    --md-accent-bg-color--light:       rgba(95,215,144,.08);
+}
+
+/* =========================================================
+   EHU CORPORATE LIGHT THEME
+   ========================================================= */
+
+[data-md-color-scheme="izosgi-light"] {
+
+    --md-default-bg-color:          #FFFFFF;
+    --md-default-fg-color:          #000000;
+    --md-default-fg-color--light:   #444444;
+    --md-default-fg-color--lighter: #777777;
+
+    --md-typeset-color:             #222222;
+    --md-typeset-a-color:           #08A4EE;
+
+    --md-primary-fg-color:          #5FD790;
+    --md-primary-fg-color--light:   #B0FBC1;
+    --md-primary-fg-color--dark:    #3DB96E;
+
+    --md-accent-fg-color:           #08A4EE;
+}
+
+/* Enlaces */
+.md-typeset a {
+    color: #08A4EE; /* Behe Lainoa */
+}
+
+.md-typeset a:hover {
+    color: #5FD790; /* Uniberdea */
+}
+
+/* Elemento activo del menú */
+.md-nav__link--active,
+.md-nav__link:active {
+    color: #5FD790;
+}
+
+/* Línea inferior de las pestañas */
+.md-tabs {
+    background-color: #5FD790;
+}
+
+/* Botones */
+.md-button {
+    border-color: #5FD790;
+}
+
+.md-button--primary {
+    background-color: #5FD790;
+    border-color: #5FD790;
+    color: #000000;
+}
+
+/* TODO: MODIFICAR ADMONITION COLOURS ACCORDING TO: */
+.md-typeset .note {
+    --md-admonition-color: #08A4EE; /* Behe Lainoa */
+}
+
+.md-typeset .tip {
+    --md-admonition-color: #5FD790; /* Uniberdea */
+}
+
+.md-typeset .warning {
+    --md-admonition-color: #EEEC46; /* Argia */
+}
+
+.md-typeset .danger {
+    --md-admonition-color: #FF8D78; /* Egunsentia */
+}
+
