@@ -7,7 +7,7 @@ The Scientific Computing Center (SCC) provides high performance computing resour
 
 **All results published using the IZO-SGI resources should acknowledge its usage and send a copy of the publication**. This publications will be used for statistical aims in order to analyse the usage, take decisions for service enhancements and defend the service relevance. The phrase we propose for the acknowledgments is:
 
-!!! danger "**Acknowledgements**"
+!!! alarm "**Acknowledgements**"
 
     *The authors thank for technical and human support provided by Scientific Computing Service of the SGIker (UPV/EHU/FEDER, EU)*
 
