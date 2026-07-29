@@ -45,10 +45,11 @@ nav:
   - Running Jobs: 
     - Submitting jobs: jobs/slurm.md
     - Batch scripts: jobs/batch_scripts.md
-    - Modules: jobs/modules.md
-    - Interactive sessions: jobs/interactive.md
+    - SLURM commands: jobs/slurm_commands.md
     - ARINA commands: jobs/commands.md
     - Interactive sessions: jobs/interactive.md
+    - Modules: jobs/modules.md
+    
   - Environments:
     - Python: environments/python.md
     - R-scripts: environments/r.md

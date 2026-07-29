@@ -31,7 +31,7 @@ The *clusterload* command can accept a couple of options.
         ```
 
     === "*$ clusterload*"
-        This command shows a summary of usage of only CPU.
+        This command shows a summary of usage on CPU only.
 
         ```bash
         [user@agamede: ~]$ clusterload 
