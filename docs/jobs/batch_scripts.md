@@ -1,22 +1,5 @@
 # BATCH Scripts in ARINA
 
-Our aim is to help researchers:
-
-We prepared several BATCH scripts available in:
-
-**`/home/users/slurm/batch-scripts/`**
-
-| *SOFTWARE*        |               |              |           |
-|-----------------|---------------|--------------|-----------|
-| *ABINIT*       | *BLAST*       | *generic*    | *Lumerical* |
-| *nf_core_eager* | *qespresso*   | *scilab*     | *starccm+*  |
-| *ams*           | *CP2K*        | *gromacs*    | *matlab*    |
-| *nwchem*        | *qiime2*      | *shasta*     | *Trinity*   |
-| *ANSYS*         | *lammps*      | *molcas*     |
-| *orca*          | *R*           | *siesta*     | *vasp*      |
-
----
-
 ## Example SLURM Script (`slurm.sl`)
 
 The following example shows a general BATCH script that can be modified or adapted to most of the common calculations ran in ARINA:
@@ -75,6 +58,25 @@ Once the script is generated or modified, the `sbatch` command has to be execute
     ```
 
 ---
+
+## Software Prepared Scripts
+Our aim is to help researchers:
+
+We prepared several BATCH scripts available in:
+
+**`/home/users/slurm/batch-scripts/`**
+
+| *SOFTWARE*        |               |              |           |
+|-----------------|---------------|--------------|-----------|
+| *ABINIT*       | *BLAST*       | *generic*    | *Lumerical* |
+| *nf_core_eager* | *qespresso*   | *scilab*     | *starccm+*  |
+| *ams*           | *CP2K*        | *gromacs*    | *matlab*    |
+| *nwchem*        | *qiime2*      | *shasta*     | *Trinity*   |
+| *ANSYS*         | *lammps*      | *molcas*     |
+| *orca*          | *R*           | *siesta*     | *vasp*      |
+
+---
+
 
 ### Notes
 

@@ -43,9 +43,11 @@ nav:
       - 2026 Nisaba: hardware/history/nisaba.md
       - 2024 Agamede: hardware/history/agamede.md
   - Running Jobs: 
-    - Modules: jobs/modules.md
     - Submitting jobs: jobs/slurm.md
     - Batch scripts: jobs/batch_scripts.md
+    - Modules: jobs/modules.md
+    - Interactive sessions: jobs/interactive.md
+    - ARINA commands: jobs/commands.md
     - Interactive sessions: jobs/interactive.md
   - Environments:
     - Python: environments/python.md
