@@ -6,7 +6,7 @@ document.addEventListener("DOMContentLoaded", function () {
     new ZammadChat({
       background: "#040a18",
       fontSize: "12px",
-      chatId: 1
+      chatId: 2
     });
   };
 
