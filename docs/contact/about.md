@@ -4,7 +4,9 @@
 
 Our aim is to improve the experience of the researchers using HPC systems. In our team we investigate the state-of-the-art HPC techniques for a better performance for computational software on scientific fields such as Chemistry, Physics, Biology, Engeeniering, Psicology, Computational Science, etc... 
 
-Our work is driven by a experienced team of dedicated professionals with strong computational science background who offer a variety of services to ensure a seamless high-performance computing environment. If you have any questions, concerns, or suggestions, we encourage you to contact us through our general support email at **support.scc@ehu.eus**. For inquiries directed to a specific team member, their contact details are provided below.
+Our work is driven by a experienced team of dedicated professionals with strong computational science background who offer a variety of services to ensure a seamless high-performance computing environment. 
+
+If you have any questions, concerns, or suggestions, we encourage you to contact us through our general support email at **support.scc@ehu.eus**. For inquiries directed to a specific team member, their contact details are provided below.
 
 ### Dr. Joaquim JORNET SOMOZA
 
