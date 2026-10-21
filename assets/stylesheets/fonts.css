@@ -1,0 +1,88 @@
+
+/* =====================================================
+   FUENTES EHU
+   ===================================================== */
+
+@font-face {
+    font-family: "EHUSans";
+    src: url("../fonts/EHUSans.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "EHUSans";
+    src: url("../fonts/EHUSans-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "EHUSans";
+    src: url("../fonts/EHUSans-Italic.otf") format("opentype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "EHUSerif";
+    src: url("../fonts/EHUSerif.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "EHUSerif";
+    src: url("../fonts/EHUSerif-Bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "EHUSerif";
+    src: url("../fonts/EHUSerif-italic.otf") format("opentype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+
+/* =====================================================
+   MATERIAL FOR MKDOCS
+   ===================================================== */
+
+:root {
+    --md-text-font: "EHUSans";
+}
+
+/* Texto general */
+body,
+.md-typeset,
+.md-nav,
+.md-search,
+.md-header,
+.md-tabs {
+    font-family: "EHUSans", sans-serif;
+}
+
+/* Títulos y subtítulos */
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+    font-family: "EHUSerif", serif;
+    font-weight: 700;
+}
+
+/* Descripción bajo títulos y elementos destacados */
+.md-typeset .caption,
+.md-typeset blockquote {
+    font-family: "EHUSerif", serif;
+}
+
+/* Negritas */
+strong,
+b {
+    font-weight: 700;
+}
